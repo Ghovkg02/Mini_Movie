@@ -71,8 +71,8 @@ export function sidebar() {
     <div class="sidebar-footer">
       <p class="copyright">
         Copyright 2024
-        <a href="https://www.linkedin.com/in/deepticl/" class="link"
-          >Deepti C L</a
+        <a href="https://www.linkedin.com/in/ghovindh-kg-02g11h17ov/" class="link"
+          >Ghovindh KG</a
         >
       </p>
 
